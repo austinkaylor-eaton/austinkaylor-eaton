@@ -3,9 +3,7 @@
 - The dotnet development stack
 - Brightlayer Cloud 
 # 🌱 I’m currently learning 
-- Azure Workbook Creation
-- Kusto Query Language (KQL)
-- Clean Architecture
+- IoT Edge Module Management
 # 💞️ I’m looking to collaborate on 
 - Brightlayer Cloud
 # 📫 How to reach me 
